@@ -1,0 +1,58 @@
+id: 55a2cfa6a1c343b0bf0bf2ca77507fef
+annotation_type: index
+revision: '00001'
+annotations:
+  ca41f90a71604978a8ffcd025d8cd6ca:
+    work_id: WD82CDE55
+    span:
+      vol: Carmavastūddāna
+      start: 0
+      end: 66
+  7f9ac3d65b914a3888fdeb933c006e5b:
+    work_id: W3AB1DD4A
+    span:
+      vol: Koṭikarṇa, born with a golden ring in his ear, visits the Preta world
+      start: 0
+      end: 9708
+  0739987f8b4f480fac6a03c989bd9369:
+    work_id: W096DB1D4
+    span:
+      vol: Rājagṛhanidāna
+      start: 0
+      end: 2429
+  d3e9187d86d54e709e14c50ade38bb29:
+    work_id: W74CF8007
+    span:
+      vol: Uddāna
+      start: 0
+      end: 35
+  01f000ba9c9f4c4bbe73cfbe8eca4daf:
+    work_id: W184EA767
+    span:
+      vol: Vaiśālyānidāna
+      start: 0
+      end: 557
+  5ea3be3506b34e0daeaab8401bcdec8a:
+    work_id: W224BB1E7
+    span:
+      vol: Various rules
+      start: 0
+      end: 1688
+  894e33a6ca56463a959f21b8bad574c3:
+    work_id: W3DF144F1
+    span:
+      vol: Why Koṭikarṇa visits Hell
+      start: 0
+      end: 48
+  cf8876ff8eab400c8cb12865d4efea29:
+    work_id: WDD8666AD
+    span:
+      vol: Why Koṭikarṇa was born with a golden ear-ring
+      start: 0
+      end: 1134
+  44f9e5cbae874c3181fe0b0ba3df284b:
+    work_id: WF8F1F143
+    span:
+      vol: Śrāvastyānidāna
+      start: 0
+      end: 1053
